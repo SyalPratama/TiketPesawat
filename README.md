@@ -21,4 +21,4 @@ TiketPesawatKu adalah aplikasi web untuk memesan tiket pesawat dengan fitur penc
 ## Dokumentasi 
 ![Dashboard](https://raw.githubusercontent.com/SyalPratama/TiketPesawat/refs/heads/main/dokumentasi/Screenshot%202025-04-27%20121028.png)
 
-![Email]([https://raw.githubusercontent.com/SyalPratama/TiketPesawat/refs/heads/main/dokumentasi/Screenshot%202025-04-27%20121028.png](https://raw.githubusercontent.com/SyalPratama/TiketPesawat/refs/heads/main/dokumentasi/Screenshot%202025-04-27%20121323.png))
+![Email](https://raw.githubusercontent.com/SyalPratama/TiketPesawat/refs/heads/main/dokumentasi/Screenshot%202025-04-27%20121323.png)
