@@ -27,13 +27,13 @@ try {
     $mail->isSMTP();
     $mail->Host = 'smtp.gmail.com';  
     $mail->SMTPAuth = true;
-    $mail->Username = 'trbt1679@gmail.com'; // Ganti dengan email kamu
-    $mail->Password = 'dqsy owxm dgpv mhvg'; // Ganti dengan password atau app password Gmail
+    $mail->Username = 'your-email@gmail.com'; // Ganti dengan email kamu
+    $mail->Password = ''; // Ganti dengan password atau app password Gmail
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
     $mail->Port = 587;
 
     //Recipients
-    $mail->setFrom('trbt1679@gmail.com', 'TiketPesawatKu');
+    $mail->setFrom('your-email@gmail.com', 'TiketPesawatKu');
     $mail->addAddress($email, $namaLengkap); // Kirim ke email user
 
     // Konten email
